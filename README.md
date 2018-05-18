@@ -20,3 +20,9 @@
 - ARCore
 - libGDX
 - Retrofit
+
+## <img src="https://opensource.org/files/osi_symbol.png" height="20" alt="Open Source" /> Open source license
+
+Copyright &copy; 2018 Główny Urząd Statystyczny
+
+Contents of this repository is licensed under GNU General Public License, version 3.0 (GPL-3.0).

@@ -3,7 +3,6 @@
 - app for stimulating heath awareness for users
 - e-learning/ranking features
 - [Eurostat](http://ec.europa.eu/eurostat) datatabse fetch
-- link for backend Java Spring server: https://github.com/Dariuszx/GUSHackhaton-server
 
 ![](https://github.com/MichalDanielDobrzanski/GusHackaton/blob/master/imgs/icon.PNG "Icon")
 

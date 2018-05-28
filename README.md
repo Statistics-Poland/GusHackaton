@@ -17,11 +17,11 @@ It is distributed and recommended by Statistics Poland.
 
 ![](https://github.com/MichalDanielDobrzanski/GusHackaton/blob/master/imgs/icon.PNG "Icon")
 
-![](https://github.com/MichalDanielDobrzanski/GusHackaton/blob/master/imgs/main_6.png "Main screen")
+![](https://github.com/Statistics-Poland/HealthPet/blob/master/screenshots/eng/Screenshot_20180426-090037_HealthPet.jpg "Main screen")
 
-![](https://github.com/MichalDanielDobrzanski/GusHackaton/blob/master/imgs/Screenshot_20180415-143008.jpg "Badge")
+![](https://github.com/Statistics-Poland/HealthPet/blob/master/screenshots/eng/Screenshot_20180426-090047_HealthPet.jpg "Code scanning quest")
 
-![](https://github.com/MichalDanielDobrzanski/GusHackaton/blob/master/imgs/Screenshot_20180415-142359.jpg "barcode scan result")
+![](https://github.com/Statistics-Poland/HealthPet/blob/master/screenshots/eng/Screenshot_20180426-090341_HealthPet.jpg "QR code scan result")
 
 ## Used tools:
 - Camera2 API

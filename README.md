@@ -15,11 +15,13 @@ The game was created by the "Green Droids" team:
   Radosław Załuska.
 It is distributed and recommended by Statistics Poland.
 
-![](https://github.com/MichalDanielDobrzanski/GusHackaton/blob/master/imgs/icon.PNG "Icon")
+![](https://github.com/Statistics-Poland/HealthPet/blob/master/ikona_hq.png "Icon")
 
 ![](https://github.com/Statistics-Poland/HealthPet/blob/master/screenshots/eng/Screenshot_20180426-090037_HealthPet.jpg "Main screen")
 
 ![](https://github.com/Statistics-Poland/HealthPet/blob/master/screenshots/eng/Screenshot_20180426-090047_HealthPet.jpg "Code scanning quest")
+
+![](https://github.com/Statistics-Poland/HealthPet/blob/master/markers.jpg "QR codes")
 
 ![](https://github.com/Statistics-Poland/HealthPet/blob/master/screenshots/eng/Screenshot_20180426-090341_HealthPet.jpg "QR code scan result")
 

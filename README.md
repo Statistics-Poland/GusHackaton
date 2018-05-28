@@ -2,10 +2,17 @@
 Augmented Reality game that promotes healthy lifestyle awareness
 
 The game is about taking care of a virtual friend while learning the principles of a healthy lifestyle. 
-You get points for bar code scanning from healthy food and answering questions from the quiz. The current version of the game supports codes corresponding to numbers 0-7, which can be generated with free online tools and put on the products indicated in the game (e.g. bananas, onions, etc.). The game uses data on food prices from Eurostat databases and presents them on a chart from which you can find out in which European countries the products are sold at a higher or cheaper price than the average.
+You get points for bar code scanning from healthy food and answering questions from the quiz. The current version of the game supports codes corresponding to numbers 0-7, which can be found in this repository or download from our website: https://hackathon.stat.gov.pl/aplikacje/healthpet.  Preparing the game for children you should download and print the codes and then put them on the products shown on pictures (e.g. bananas, onions, etc.).
+
+The game uses data on food prices from Eurostat databases and presents them on a chart from which you can find out in which European countries the products are sold at a higher or cheaper price than the average.
  
 The application received the first award in "ShowMeData" hackathon organized on April 14-15, 2018 by Statistics Poland. The game is fully functional, but please remember that it is only a prototype created in 24 hours. The source code of the game is publicly available in the GitHub repository - we invite you to cooperate in further development of this game.
-The game was created by the "Green Droids" team: Konrad Czarnota, Michał Dobrzański, Dariusz Dybka, Radosław Załuska.
+
+The game was created by the "Green Droids" team: 
+  Konrad Czarnota,
+  Michał Dobrzański, 
+  Dariusz Dybka, 
+  Radosław Załuska.
 It is distributed and recommended by Statistics Poland.
 
 ![](https://github.com/MichalDanielDobrzanski/GusHackaton/blob/master/imgs/icon.PNG "Icon")
